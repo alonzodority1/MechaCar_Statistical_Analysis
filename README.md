@@ -27,7 +27,7 @@ With the very small p-value the sample mean is not significantly different from 
 ![Alt text](Lot_1_T-Test.PNG)
 With the very small p-value the sample mean is not significantly different from the Lot 1 mean
 
-![Alt text](Lot_2_T-test.PNG)
+![Alt text](Lot_2_T-Test.PNG)
 With the very small p-value the sample mean is not significantly different from the Lot 2 mean
 
 ![Alt text](Lot_3_T-test.PNG)
