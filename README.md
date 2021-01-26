@@ -22,15 +22,19 @@ Cummulatively the suspension coils meet the deisgn specification of a sub 100 PS
 ## T-Tests on Suspension Coils
 
 ![Alt text](1500_T-test.PNG)
+
 With the very small p-value the sample mean is not significantly different from the population mean of 1500
 
 ![Alt text](Lot_1_T-Test.PNG)
+
 With the very small p-value the sample mean is not significantly different from the Lot 1 mean
 
 ![Alt text](Lot_2_T-Test.PNG)
+
 With the very small p-value the sample mean is not significantly different from the Lot 2 mean
 
 ![Alt text](Lot_3_T-Test.PNG)
+
 With the very small p-value the sample mean is not significantly different from the Lot 3 mean
 
 
