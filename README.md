@@ -3,4 +3,5 @@ R
 
 ## Linear Regression to Predict MPG
 
-![Alt text]
+![Alt text]MechaCarChallenge.PNG
+
